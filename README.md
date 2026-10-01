@@ -8,4 +8,4 @@
 - Please visit the [Wiki page](https://github.com/sbbe-oficial/SBBEDataAnalysis/wiki) for detailed information.
 ***
 
-![](https://github.com/sbbe-oficial/SBBECommentaryArticle/blob/main/SBBECommentaryArticle/Auxiliary/SBBECommentaryArticle--GitHubImage.jpg)
+![](https://github.com/sbbe-oficial/SBBEDataAnalysis/blob/main/SBBEDataAnalysis/Auxiliary/LogoSBBE.jpg)
